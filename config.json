@@ -1,0 +1,11 @@
+{
+  "name": "ghhdgfxsfg",
+  "telegram_api_key": "",
+  "open_exchange_api_key": "8b003c6c79874472926c38d24ac0773e",
+  "youtube_api_key": "AIzaSyATkf6GFS-aFFh-S-Sm6KPRFBeok7VWkeY",
+  "maps_api_key": "AIzaSyAnL0oxkiNn0eV9ysH6FBUFF4TD7T-bSUE",
+  "custom_search_id": "AIzaSyCCjKjDYSXV2X8IxrX_JznC6QJkBKRJqfk",
+  "custom_search_api_key": "004521643844467528511:3ykmtdwq290",
+
+  "custom_search_credentials": [{"api_key": "AIzaSyCCjKjDYSXV2X8IxrX_JznC6QJkBKRJqfk", "search_id": "AIzaSyCCjKjDYSXV2X8IxrX_JznC6QJkBKRJqfk"}]
+}
